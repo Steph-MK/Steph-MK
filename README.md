@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👩🏽‍💻 Steph MK | Aspiring Cloud Security Engineer
 
-<!--
-**Steph-MK/Steph-MK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m a Ghanaian digital professional currently pivoting into cloud computing and cloud security. With a background in digital strategy and marketing, I bring strong analytical and communication skills to technical environments.  
 
-Here are some ideas to get you started:
+Currently learning:  
+- AWS (EC2, S3, IAM, VPC)  
+- Linux CLI  
+- Git & GitHub  
+- Cloud architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals:  
+- Build my first AWS portfolio projects  
+- Earn my AWS Certified Cloud Practitioner  
+- Contribute to open-source and real-world infrastructure projects  
+
+Let’s connect!  
+[LinkedIn Profile](linkedin.com/in/stephaniemargaretklutse/) 
+
